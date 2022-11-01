@@ -1,6 +1,6 @@
 const ArjunaBazaz = {
-  pronouns: "he" | "him",
-  school: "University of Virginia",
-  languages: [Javascript, Java, Python, C++ HTML, CSS, R],
-  frameworks: [Node, React, PyTorch],
+  pronouns: "he" | "him", \n
+  school: "University of Virginia", \n
+  languages: [Javascript, Java, Python, C++ HTML, CSS, R], \n
+  frameworks: [Node, React, PyTorch], \n
 }
